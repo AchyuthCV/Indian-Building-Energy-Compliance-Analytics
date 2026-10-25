@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C/C++ / build artifacts
+*.so
+*.o
+*.obj
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Local SQLite Database (Dynamically generated via 02_sql_analytics.py)
+*.db
+*.sqlite
+*.sqlite3
+
+# Power BI temp files & auto-recovery caches
+*.pbitemp
+*.tmp
+
+# Operating System & IDE junk
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Raw archives and competition test artifacts
+*.zip
+widsdatathon2022/

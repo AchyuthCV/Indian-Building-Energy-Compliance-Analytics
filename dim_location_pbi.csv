@@ -1,0 +1,8 @@
+city,state,climate_zone,location_id
+Mumbai,Maharashtra,Warm & Humid,LOC-101
+Bengaluru,Karnataka,Moderate,LOC-102
+Delhi-NCR,Delhi,Composite,LOC-103
+Hyderabad,Telangana,Hot & Dry,LOC-104
+Chennai,Tamil Nadu,Warm & Humid,LOC-105
+Kolkata,West Bengal,Warm & Humid,LOC-106
+Ahmedabad,Gujarat,Hot & Dry,LOC-107
